@@ -1,0 +1,51 @@
++------------------------------------------------+
+|Time of Transition |PID | Old State | New State |
++------------------------------------------------+
+| 0 | 1 |     NEW |     READY |
+| 0 | 1 |   READY |   RUNNING |
+| 1 | 2 |     NEW |     READY |
+| 30 | 4 |     NEW |     READY |
+| 100 | 1 | RUNNING |     READY |
+| 100 | 2 |   READY |   RUNNING |
+| 120 | 2 | RUNNING | TERMINATED |
+| 120 | 4 |   READY |   RUNNING |
+| 130 | 4 | RUNNING | TERMINATED |
+| 130 | 1 |   READY |   RUNNING |
+| 230 | 1 | RUNNING |     READY |
+| 230 | 1 |   READY |   RUNNING |
+| 330 | 1 | RUNNING |     READY |
+| 330 | 1 |   READY |   RUNNING |
+| 430 | 1 | RUNNING |     READY |
+| 430 | 1 |   READY |   RUNNING |
+| 530 | 1 | RUNNING |     READY |
+| 530 | 1 |   READY |   RUNNING |
+| 630 | 1 | RUNNING |     READY |
+| 630 | 1 |   READY |   RUNNING |
+| 730 | 1 | RUNNING |     READY |
+| 730 | 1 |   READY |   RUNNING |
+| 830 | 1 | RUNNING |     READY |
+| 830 | 1 |   READY |   RUNNING |
+| 930 | 1 | RUNNING |     READY |
+| 930 | 1 |   READY |   RUNNING |
+| 1030 | 1 | RUNNING |     READY |
+| 1030 | 1 |   READY |   RUNNING |
+| 1130 | 1 | RUNNING |     READY |
+| 1130 | 1 |   READY |   RUNNING |
+| 1230 | 1 | RUNNING |     READY |
+| 1230 | 1 |   READY |   RUNNING |
+| 1330 | 1 | RUNNING |     READY |
+| 1330 | 1 |   READY |   RUNNING |
+| 1430 | 1 | RUNNING |     READY |
+| 1430 | 1 |   READY |   RUNNING |
+| 1530 | 1 | RUNNING |     READY |
+| 1530 | 1 |   READY |   RUNNING |
+| 1630 | 1 | RUNNING |     READY |
+| 1630 | 1 |   READY |   RUNNING |
+| 1730 | 1 | RUNNING |     READY |
+| 1730 | 1 |   READY |   RUNNING |
+| 1830 | 1 | RUNNING |     READY |
+| 1830 | 1 |   READY |   RUNNING |
+| 1930 | 1 | RUNNING |     READY |
+| 1930 | 1 |   READY |   RUNNING |
+| 2030 | 1 | RUNNING |     READY |
++------------------------------------------------+
